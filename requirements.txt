@@ -1,5 +1,3 @@
-fastapi
-uvicorn
-joblib
-scikit-learn
+flask
 numpy
+joblib
